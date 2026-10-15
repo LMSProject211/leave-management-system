@@ -512,9 +512,9 @@ Vite generates the production frontend build in `frontend/dist/`.
 
 ## 👨‍💻 Author
 
-**Pabitra Khatri**
-**Aman Verma**
-**Raghabendra Kumar Shah**
+**Pabitra Khatri**, 
+**Aman Verma**, 
+**Raghabendra Kumar Shah**, 
 **Pasupuleti Niranjan**
 
 Java Full Stack Developer
